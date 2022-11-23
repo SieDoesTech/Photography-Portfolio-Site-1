@@ -1,8 +1,8 @@
 body {
-    font-family: cursive;
+    font-family: monospace;
     font-size: 16px;
     line-height: 2px;
-    background-color: darkorchid;
+    /* background-color: #004d9d; */
     color: white;
 }
 
@@ -13,8 +13,9 @@ header {
 }
 
 h1 {
-    font-size: 27px;
+    font-size: 25px;
     font-weight: 650;
+    margin-bottom: 5px;
 }
 
 footer {
@@ -32,7 +33,7 @@ a {
 }
 
 a:hover {
-    color: blanchedalmond;
+    color: wheat;
 }
 
 section {
